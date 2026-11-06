@@ -15,14 +15,13 @@ The project combines several ABS datasets into one interactive Tableau dashboard
 
 <img width="1591" height="892" alt="image" src="https://github.com/user-attachments/assets/d0a0c587-a2b2-4972-8454-446232aa4a6c" />
 
-<img width="1587" height="891" alt="image" src="https://github.com/user-attachments/assets/fb777738-2ded-4bec-9ff8-494bb664d5b3" />
-
+<img width="1587" height="796" alt="image" src="https://github.com/user-attachments/assets/02ae260b-7b58-4b67-b589-d153373324dd" />
 
 ## Executive summary
 
-Salesforce's strongest small business opportunity lies with **trades and specialist construction businesses in Logan, the Gold Coast and Moreton Bay**. Queensland offers the largest growing small business market in Australia. Construction is the only major Queensland industry still expanding, and most construction businesses already work online but have no system for managing customers. These three neighbouring areas hold a third of Queensland's construction opportunity, worth an estimated **$1 million a year** at a cautious 5% take-up.
+Salesforce's strongest small business opportunity lies with trades and specialist construction businesses in Logan, the Gold Coast and Moreton Bay. Queensland offers the largest growing small business market in Australia. Construction is the only one of Queensland's five highest-sales industries still adding businesses, and while most construction businesses use cloud tools, few report using a CRM. These three neighbouring areas hold a third of Queensland's construction opportunity, worth an estimated $1 million a year at a cautious 5% take-up.
 
-**This analysis set out to identify:**
+This analysis set out to identify:
 - the state with the best mix of market size and growth
 - the industry with the strongest need for Salesforce
 - how ready that industry is to adopt it
@@ -61,7 +60,7 @@ For these businesses, moving to Salesforce is a small step, not a leap. Very few
 
 ### 4. Trades and specialist contractors: the best-fit businesses
 
-Within construction, **trades and specialist contractors** (electricians, plumbers, carpenters and similar, grouped as "Construction Services") stand out on every measure:
+Within construction, trades and specialist contractors (electricians, plumbers, carpenters and similar) are grouped by the ABS as "Construction Services".
 
 Construction Services stands out among the three construction subdivisions, recording the highest aggregate sales, wages expenditure and profit margin in the selected ABS data. These indicators suggest that the subdivision warrants further investigation as a potential Salesforce customer segment. However, industry-level financial performance does not directly establish individual businesses' willingness or ability to pay for CRM solutions.
 
@@ -74,21 +73,23 @@ Each eligible Queensland Local Government Area (LGA) was assigned a Market Oppor
 
 LGA Market Opportunity Index for Queensland construction, with the score weights panel open SMB Insights page with QLD and Construction selected. The "What matters most?" panel on the right controls the score weights.
 
-<img width="1577" height="475" alt="image" src="https://github.com/user-attachments/assets/a22ee889-7c7a-42ba-b920-857095c53c50" />
+<img width="1597" height="467" alt="image" src="https://github.com/user-attachments/assets/a73361cc-0e4c-483c-807a-c9c10188f8b6" />
+
+*SMB Insights page with QLD and Construction selected. The "What matters most?" panel on the right controls the score weights.*
 
 The three top-ranked areas each lead for a different reason:
 
-Logan recorded a net increase of 178 employing construction businesses between June 2023 and June 2025, representing the largest absolute net growth among the LGAs in the comparison.
-Gold Coast (59.2): the second-largest market (6,165 businesses), and still growing
-Moreton Bay (55.7): a strong balance of size (3,638 businesses) and growth
+* Logan (74.9): a net increase of 178 employing construction businesses between June 2023 and June 2025, the largest absolute net growth among the LGAs compared
+* Gold Coast (59.2): the second-largest market (6,165 businesses), and still growing
+* Moreton Bay (55.7): a strong balance of size (3,638 businesses) and growth
 
-Adjustable weights. By default, the three factors count equally. The "What matters most?" panel lets users change how much each one counts, from 1 (least important) to 5 (most important). Raising Market Size favours large established markets; raising Business Growth favours fast-growing ones. Salesforce can match the ranking to its own priorities and see whether the recommended areas still hold.
+**Adjustable weights.** By default, the three factors count equally. The "What matters most?" panel lets users change how much each one counts, from 1 (least important) to 5 (most important). Raising Market Size favours large established markets; raising Business Growth favours fast-growing ones. Salesforce can match the ranking to its own priorities and see whether the recommended areas still hold.
 
 K-Means clustering provides an additional perspective on the geographic distribution of Queensland's construction SMBs. The analysis identifies five larger markets—Brisbane, Gold Coast, Moreton Bay, Sunshine Coast and Logan—distinguishing them from 28 smaller LGAs. Three of these larger markets also rank highly under the Market Opportunity Index, providing supporting context for their prioritisation. However, clustering does not independently establish which LGAs offer the strongest potential for Salesforce customer acquisition.
 
 <img width="787" height="310" alt="image" src="https://github.com/user-attachments/assets/a0667c85-a3f8-4779-8023-f6d1c509d7b2" />
 
-Brisbane is the notable exception. It has the most construction businesses in Queensland (6,904), but their number fell over the period, so it ranks outside the top 10. New construction businesses are forming in the suburbs and regions around Brisbane, not in the city. Being big doesn't automatically make a market an opportunity.
+**Brisbane is the notable exception.** It has the most construction businesses in Queensland (6,904), but their number fell over the period, so it ranks outside the top 10. New construction businesses are forming in the suburbs and regions around Brisbane, not in the city. Being big doesn't automatically make a market an opportunity.
 
 Livingstone, near Rockhampton, ranks fourth despite having only 435 construction businesses. It's a fast-rising regional market worth watching.
 
@@ -100,12 +101,13 @@ Under an illustrative 5% customer adoption scenario, Queensland's approximately 
 
 This estimate is scenario-based rather than a sales forecast. The 5% adoption rate and licence allocations are modelling assumptions, and the calculation excludes customer acquisition costs, churn and other factors that would affect realised revenue and profitability.
 
+Selecting only Logan, the Gold Coast and Moreton Bay on the dashboard shows that these three LGAs hold 12,750 employing construction SMBs, giving about 640 customers and AU$1.03 million a year under the same assumptions, roughly a third of the Queensland total.
+
 <img width="1592" height="687" alt="image" src="https://github.com/user-attachments/assets/ac460786-c1de-43e6-870f-3c977197db11" />
 
 Because the three areas sit side by side in South East Queensland, one regional team or campaign can reach a third of the state's opportunity.
 
 The estimate assumes the Starter plan (AU$35 per user per month) for businesses with 1–19 staff and the Pro plan (AU$140) for businesses with 20–199, with 2, 4 or 10 users depending on size. These are list prices, and every assumption can be adjusted on the dashboard.
-
 ## Recommendations
 
 1. **Focus on trades and specialist contractors**, the construction businesses with the most to gain and the means to pay.
@@ -168,7 +170,7 @@ Revenue = Adoption rate × 12 × [ (1–4 staff SMBs × users × Starter price)
 | Dataset | Reference period used | Used for |
 |---|---|---|
 | [Counts of Australian Businesses, including Entries and Exits (CABEE)](https://www.abs.gov.au/statistics/economy/business-indicators/counts-australian-businesses-including-entries-and-exits/latest-release) | June 2023 and June 2025 | SMB counts and growth by state, industry, LGA and employment size band |
-| [Australian Industry](https://www.abs.gov.au/AUSSTATS/abs@.nsf/MF/8155.0) | 2023-2025 | Sales and service income, wages, employment and profit margin by industry and sub-industry |
+| [Australian Industry](https://www.abs.gov.au/AUSSTATS/abs@.nsf/MF/8155.0) | June 2023 - June 2025 | Sales and service income, wages, employment and profit margin by industry and sub-industry |
 | [Characteristics of Australian Business](https://www.abs.gov.au/statistics/industry/technology-and-innovation/characteristics-australian-business/latest-release) | 2024–25 financial year | Technology adoption (cloud, CRM, AI, data analytics) by industry |
 
 *Source: Australian Bureau of Statistics. ABS data is used under the [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/). Figures have been filtered, combined and transformed for this analysis (see Methodology); any errors in interpretation are the author's own.*
