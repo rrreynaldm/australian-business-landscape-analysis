@@ -70,11 +70,11 @@ They generate the most sales, spend the most on staff time and earn **double the
 
 ### 5. Logan, Gold Coast and Moreton Bay: where to start
 
-<img width="1577" height="475" alt="image" src="https://github.com/user-attachments/assets/a22ee889-7c7a-42ba-b920-857095c53c50" />
-
 Every Queensland council area (LGA) was given a Readiness Index score out of 100, based on three factors: the number of construction businesses, how many new ones started since 2023, and how much of the local economy construction makes up. Areas with fewer than 100 construction businesses were excluded so tiny markets wouldn't distort the results.
 
 LGA Readiness Index for Queensland construction, with the score weights panel open SMB Insights page with QLD and Construction selected. The "What matters most?" panel on the right controls the score weights.
+
+<img width="1577" height="475" alt="image" src="https://github.com/user-attachments/assets/a22ee889-7c7a-42ba-b920-857095c53c50" />
 
 The three top-ranked areas each lead for a different reason:
 
@@ -96,11 +96,11 @@ Livingstone, near Rockhampton, ranks fourth despite having only 435 construction
 
 ### 6. A third of the opportunity in three neighbouring areas
 
-<img width="1592" height="687" alt="image" src="https://github.com/user-attachments/assets/ac460786-c1de-43e6-870f-3c977197db11" />
-
 At a cautious 5% take-up, Queensland's 38,000 construction businesses would give Salesforce around 1,900 customers, worth an estimated $3.15M a year. Selecting just Logan, the Gold Coast and Moreton Bay on the dashboard shows that these three areas alone hold 12,750 businesses, about 640 potential customers and $1.03M a year, a third of the state's opportunity.
 
 SMB Insights dashboard filtered to Logan, Gold Coast and Moreton Bay SMB Insights page with QLD, Construction and the three target LGAs selected. The revenue assumptions panel is open on the right.
+
+<img width="1592" height="687" alt="image" src="https://github.com/user-attachments/assets/ac460786-c1de-43e6-870f-3c977197db11" />
 
 Because the three areas sit side by side in South East Queensland, one regional team or campaign can reach a third of the state's opportunity.
 
@@ -113,8 +113,6 @@ The estimate assumes the Starter plan (AU$35 per user per month) for businesses 
 3. **Lead with the Starter plan** for customer tracking, quotes and follow-ups, and introduce the Pro plan (quoting and forecasting) to larger firms.
 4. **Use online campaigns**, since most of these businesses already work with cloud tools.
 5. **Monitor Queensland's small business digital grants** and position Salesforce as an eligible purchase when new rounds open.
-
----
 
 ## Dashboard overview
 
@@ -132,8 +130,6 @@ The Tableau workbook has three pages, linked by shared State and Industry filter
 - **Revenue assumption sliders**: adoption rate, users per business by size band, and plan prices
 - Minimum-business threshold and Top N controls
 - Click-to-highlight between the ranked chart, map and cluster scatter
-
----
 
 ## Methodology
 
@@ -198,4 +194,5 @@ Revenue = Adoption rate × 12 × [ (1–4 staff SMBs × users × Starter price)
 ## Author
 
 **Reynald Rodriguez**, Master of Business Analytics, Macquarie University
+
 [LinkedIn](https://www.linkedin.com/in/reynald-rodriguez-8b1574126/)
