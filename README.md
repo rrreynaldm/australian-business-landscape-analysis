@@ -1,7 +1,5 @@
 # Where Salesforce Should Grow: Construction SMBs in South East Queensland
 
-**An SMB market-targeting analysis and interactive Tableau dashboard built on public ABS data.**
-
 ## About this project
 
 This is a self-directed portfolio project based on a Macquarie University Business Analytics Project brief (BUSA8031, Session 2 2026). The brief casts Salesforce Australia as the client. Salesforce wants to grow among small and medium businesses (SMBs) and needs a data-driven way to decide **which markets to target and where to focus marketing effort**.
@@ -14,7 +12,9 @@ The project combines several ABS datasets into one interactive Tableau dashboard
 🔗 **Live dashboard:** [Tableau Dashboard Link](https://public.tableau.com/app/profile/reynald.rodriguez/viz/Salesforce_SMB_Market_Targeting/StateandIndustry)
 
 <img width="1591" height="890" alt="image" src="https://github.com/user-attachments/assets/ec2548e1-1d9c-4e2f-889f-601c820ee9bf" />
+
 <img width="1591" height="892" alt="image" src="https://github.com/user-attachments/assets/d0a0c587-a2b2-4972-8454-446232aa4a6c" />
+
 <img width="1587" height="891" alt="image" src="https://github.com/user-attachments/assets/fb777738-2ded-4bec-9ff8-494bb664d5b3" />
 
 
