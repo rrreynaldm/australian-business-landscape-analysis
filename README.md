@@ -11,11 +11,15 @@ The project combines several ABS datasets into one interactive Tableau dashboard
 
 🔗 **Live dashboard:** [Tableau Dashboard Link](https://public.tableau.com/app/profile/reynald.rodriguez/viz/Salesforce_SMB_Market_Targeting/StateandIndustry)
 
+
 <img width="1591" height="890" alt="image" src="https://github.com/user-attachments/assets/ec2548e1-1d9c-4e2f-889f-601c820ee9bf" />
+
 
 <img width="1591" height="892" alt="image" src="https://github.com/user-attachments/assets/d0a0c587-a2b2-4972-8454-446232aa4a6c" />
 
+
 <img width="1587" height="796" alt="image" src="https://github.com/user-attachments/assets/02ae260b-7b58-4b67-b589-d153373324dd" />
+
 
 ## Executive summary
 
@@ -36,7 +40,9 @@ Australia's two biggest small business markets are shrinking. **New South Wales 
 
 **Queensland sits between the two.** With about **197,000 small businesses**, twice WA's number, it still added about **1,900** over the period. WA is growing faster, but Queensland gives Salesforce twice the number of potential customers in a market that's still expanding.
 
+
 <img width="1591" height="477" alt="image" src="https://github.com/user-attachments/assets/1e5e4ffd-81a9-4739-aec7-66b7a965e7e0" />
+
 
 The state also has a history of supporting small businesses to go digital. Past programs offered matched funding of up to $10,000 for hardware, software and digital services (Small Business Digital Grants), and grants of up to $15,000 for business planning, specialised software and IT support (Business Boost). No program covering CRM software was open at the time of analysis, but future rounds could help small businesses afford Salesforce.
 
@@ -48,7 +54,9 @@ Construction is also the **most people-heavy** of the five: **wages make up 16.5
 
 Health Care and Professional Services grew faster, but they generate far lower sales. **Construction offers the strongest combination of market size, sales, growth and need for Salesforce.**
 
+
 <img width="1587" height="787" alt="image" src="https://github.com/user-attachments/assets/e19ef032-c263-4e3f-9dcb-338002866994" />
+
 
 ### 3. Digitally ready, but largely without a CRM
 
@@ -56,13 +64,16 @@ ABS data shows that approximately 74% of construction businesses use cloud techn
 
 For these businesses, moving to Salesforce is a small step, not a leap. Very few use more advanced tools such as AI (6%) or data analytics (3%), so the industry is early in its digital journey. **The natural entry point is Salesforce's basic Starter plan**, with advanced features introduced later.
 
+
 <img width="1582" height="375" alt="image" src="https://github.com/user-attachments/assets/a62653cc-cc33-46fd-b96e-9d78f552fef9" />
+
 
 ### 4. Trades and specialist contractors: the best-fit businesses
 
 Within construction, trades and specialist contractors (electricians, plumbers, carpenters and similar) are grouped by the ABS as "Construction Services".
 
 Construction Services stands out among the three construction subdivisions, recording the highest aggregate sales, wages expenditure and profit margin in the selected ABS data. These indicators suggest that the subdivision warrants further investigation as a potential Salesforce customer segment. However, industry-level financial performance does not directly establish individual businesses' willingness or ability to pay for CRM solutions.
+
 
 <img width="1591" height="405" alt="image" src="https://github.com/user-attachments/assets/f72dcff9-6de4-4e47-b116-de805eb7b94c" />
 
@@ -73,7 +84,9 @@ Each eligible Queensland Local Government Area (LGA) was assigned a Market Oppor
 
 LGA Market Opportunity Index for Queensland construction, with the score weights panel open SMB Insights page with QLD and Construction selected. The "What matters most?" panel on the right controls the score weights.
 
+
 <img width="1597" height="467" alt="image" src="https://github.com/user-attachments/assets/a73361cc-0e4c-483c-807a-c9c10188f8b6" />
+
 
 *SMB Insights page with QLD and Construction selected. The "What matters most?" panel on the right controls the score weights.*
 
@@ -87,13 +100,17 @@ The three top-ranked areas each lead for a different reason:
 
 K-Means clustering provides an additional perspective on the geographic distribution of Queensland's construction SMBs. The analysis identifies five larger markets—Brisbane, Gold Coast, Moreton Bay, Sunshine Coast and Logan—distinguishing them from 28 smaller LGAs. Three of these larger markets also rank highly under the Market Opportunity Index, providing supporting context for their prioritisation. However, clustering does not independently establish which LGAs offer the strongest potential for Salesforce customer acquisition.
 
+
 <img width="787" height="310" alt="image" src="https://github.com/user-attachments/assets/a0667c85-a3f8-4779-8023-f6d1c509d7b2" />
+
 
 **Brisbane is the notable exception.** It has the most construction businesses in Queensland (6,904), but their number fell over the period, so it ranks outside the top 10. New construction businesses are forming in the suburbs and regions around Brisbane, not in the city. Being big doesn't automatically make a market an opportunity.
 
 Livingstone, near Rockhampton, ranks fourth despite having only 435 construction businesses. It's a fast-rising regional market worth watching.
 
-<img width="787" height="310" alt="image" src="https://github.com/user-attachments/assets/f981b869-71ba-428a-811e-9c8e9018c9f3" />
+
+<img width="790" height="312" alt="image" src="https://github.com/user-attachments/assets/bc442adc-99c4-4d10-a395-8393a811257a" />
+
 
 ### 6. A third of the opportunity in three neighbouring areas
 
@@ -103,7 +120,9 @@ This estimate is scenario-based rather than a sales forecast. The 5% adoption ra
 
 Selecting only Logan, the Gold Coast and Moreton Bay on the dashboard shows that these three LGAs hold 12,750 employing construction SMBs, giving about 640 customers and AU$1.03 million a year under the same assumptions, roughly a third of the Queensland total.
 
-<img width="1592" height="687" alt="image" src="https://github.com/user-attachments/assets/ac460786-c1de-43e6-870f-3c977197db11" />
+
+<img width="1592" height="687" alt="image" src="https://github.com/user-attachments/assets/f2af4c97-9b15-481d-abef-c1b2bd7c19ca" />
+
 
 Because the three areas sit side by side in South East Queensland, one regional team or campaign can reach a third of the state's opportunity.
 
